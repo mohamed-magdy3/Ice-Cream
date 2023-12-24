@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Ice-Cream/static/css/main.4cb20590.css",
+    "main.js": "/Ice-Cream/static/js/main.bb9492e2.js",
+    "static/js/787.d2c3e9b8.chunk.js": "/Ice-Cream/static/js/787.d2c3e9b8.chunk.js",
+    "static/media/a.jpg": "/Ice-Cream/static/media/a.4e52899de076de06d3c5.jpg",
+    "static/media/carousel4.jpg": "/Ice-Cream/static/media/carousel4.a07d9d7cc075f0fc79e3.jpg",
+    "static/media/carousell.jpg": "/Ice-Cream/static/media/carousell.1e259c77eb153f82ad9b.jpg",
+    "static/media/promotion.jpg": "/Ice-Cream/static/media/promotion.805c95cc960c12e72025.jpg",
+    "static/media/carousel.jpg": "/Ice-Cream/static/media/carousel.e61bca0d284d35f718ac.jpg",
+    "static/media/portfolio-1.jpg": "/Ice-Cream/static/media/portfolio-1.47f010841bc6a05acd00.jpg",
+    "static/media/about.jpg": "/Ice-Cream/static/media/about.5d517cbb590c993643d1.jpg",
+    "static/media/portfolio-5.jpg": "/Ice-Cream/static/media/portfolio-5.f2e994054cc64e86e813.jpg",
+    "static/media/portfolio-3.jpg": "/Ice-Cream/static/media/portfolio-3.1ace3d36725a6ae02efa.jpg",
+    "static/media/portfolio-6.jpg": "/Ice-Cream/static/media/portfolio-6.ed58fc5dd1af1b370dd8.jpg",
+    "static/media/portfolio-2.jpg": "/Ice-Cream/static/media/portfolio-2.95fc19d56b8a61885089.jpg",
+    "static/media/portfolio-4.jpg": "/Ice-Cream/static/media/portfolio-4.2d432010486994c11f47.jpg",
+    "static/media/revicons.eot": "/Ice-Cream/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Ice-Cream/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Ice-Cream/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Ice-Cream/index.html",
+    "main.4cb20590.css.map": "/Ice-Cream/static/css/main.4cb20590.css.map",
+    "main.bb9492e2.js.map": "/Ice-Cream/static/js/main.bb9492e2.js.map",
+    "787.d2c3e9b8.chunk.js.map": "/Ice-Cream/static/js/787.d2c3e9b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cb20590.css",
+    "static/js/main.bb9492e2.js"
+  ]
+}
